@@ -7,7 +7,7 @@
 
 [1. 요구사항 확인](https://dev-wotjd.notion.site/1-76fbfc7071bf464fa6a17075f7ca3b5f)
 
-[2. 화면 설계]()
+[2. 화면 설계](https://dev-wotjd.notion.site/2-3aab842e2cd8493fa4a78e24b5719ef3)
 
 [3. 데이터 입출력 구현]()
 

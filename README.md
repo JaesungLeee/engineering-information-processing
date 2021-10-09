@@ -9,7 +9,7 @@
 
 [2. 화면 설계](https://dev-wotjd.notion.site/2-3aab842e2cd8493fa4a78e24b5719ef3)
 
-[3. 데이터 입출력 구현]()
+[3. 데이터 입출력 구현](https://dev-wotjd.notion.site/3-702a444f906e4cf78339b11b6f977685)
 
 [4. 통합 구현]()
 
